@@ -39,3 +39,4 @@ Translation: I am translating to English
 Would you like to translate again? (Y/N)
 
 (program end)
+m-I thought the language was unclear, but its fine
